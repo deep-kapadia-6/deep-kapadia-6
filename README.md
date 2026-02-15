@@ -29,6 +29,12 @@ Desktop app for randomized workout routine generation.
 - 💼 LinkedIn: [linkedin.com/in/deepkapadia0612](www.linkedin.com/in/deepkapadia0612)
 - 📧 Email: deepkapadia2000@gmail.com
 
+## 📊 GitHub Stats
+
+![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-kapadia-6&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-kapadia-6&layout=compact&theme=dark)
+
 ---
 
 💡 Open to collaborations in computational biology and bioinformatics!
