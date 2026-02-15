@@ -9,7 +9,7 @@ Bioinformatics researcher and software developer specializing in single-cell gen
 Web application for automated scRNA-seq analysis with AI-powered assistance.
 
 ### [LSC Identification Model](https://github.com/deep-kapadia-6/LSC-Identification-Model)
-High-accuracy ML model for leukemic stem cell classification from multi-omics data (99.9% accuracy).
+High-accuracy ML model for leukemic stem cell classification from multi-omics data (95% accuracy).
 
 ### [Gym Generator](https://github.com/deep-kapadia-6/Gym-Generator)
 [![Download](https://img.shields.io/badge/Download-v1.0.0-blue)](https://github.com/deep-kapadia-6/Gym-Generator/releases)
