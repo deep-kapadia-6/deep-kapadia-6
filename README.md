@@ -31,9 +31,9 @@ Desktop app for randomized workout routine generation.
 
 ## 📊 GitHub Stats
 
-![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-kapadia-6&show_icons=true&theme=dark)
+![Deep's GitHub stats](https://github-readme-stats.vercel.app/api?username=deep-kapadia-6&show_icons=true&theme=dark)&cache_seconds=1800
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-kapadia-6&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deep-kapadia-6&layout=compact&theme=dark)&cache_seconds=1800
 
 ---
 
