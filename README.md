@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Deep Kapadia 👋
 
 Bioinformatics researcher and software developer specializing in single-cell genomics, machine learning, and computational biology workflows.
